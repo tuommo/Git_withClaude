@@ -9,6 +9,16 @@ def add(a, b):
 
 
 def subtract(a, b):
+    """
+    Vrátí rozdíl dvou čísel.
+
+    Args:
+        a (int/float): Menšenec.
+        b (int/float): Menšitel.
+
+    Returns:
+        int/float: Výsledek a - b.
+    """
     return a - b
 
 def multiply(a, b):
