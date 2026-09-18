@@ -29,6 +29,10 @@ def divide(a, b):
         raise ValueError("Nelze dělit nulou")
     return a / b
 
+def power(base, exponent):
+    """Vrátí základ umocněný na daný exponent (base ** exponent)."""
+    return base ** exponent
+
 if __name__ == "__main__":
     print("Kalkulacka v0.1")
     print("2 + 3 =", add(2, 3))
@@ -38,3 +42,4 @@ if __name__ == "__main__":
         print("10 / 0 =", divide(10, 0))
     except ValueError as e:
         print("Chyba:", e)
+    print("2 ^ 3 =", power(2, 3))
