@@ -6,6 +6,8 @@ Kurz je navržený na **1–2 hodiny denně**, pro prostředí:
 - GitHub účet (s existujícím repozitářem nebo nově založeným)
 - Lokální složka: `C:\Projects\Git_withClaude`
 
+
+
 ## Jak kurz použít
 
 1. Rozbal tyto soubory do `C:\Projects\Git_withClaude\kurz\` (nebo kamkoliv se ti hodí) –
@@ -31,3 +33,8 @@ Kurz je navržený na **1–2 hodiny denně**, pro prostředí:
 - `master` vs `main`: GitHub dnes při založení repa nabízí výchozí název větve `main`.
   Popisuji oboje, ale ve cvičeních použijeme `main`, protože to dnes uvidíš i v novém repozitáři na GitHubu.
 - Git příkazy píšu tak, jak je spustíš v terminálu VS Code (PowerShell nebo Git Bash – obojí funguje).
+
+## Příprava na kurz
+1. Nainstalovaný VS Code s extensions GitHub, GitLens, Python
+2. Nainstalovaný Git
+3. Nainstalovaný python
