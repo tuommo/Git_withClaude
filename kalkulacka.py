@@ -1,6 +1,8 @@
 """
 Jednoducha kalkulacka - vychozi bod pro kurz Git & GitHub.
 Tento soubor se bude v prubehu kurzu postupne menit a verzovat.
+Cílem není mít funkční skript, který počítá, ale vyzkoušet si hlavně Git/GitHub verzování.
+Autor/Datum: Tomáš Ježek, 09/2026
 """
 
 
