@@ -38,3 +38,4 @@ Kurz je navržený na **1–2 hodiny denně**, pro prostředí:
 1. Nainstalovaný VS Code s extensions GitHub, GitLens, Python
 2. Nainstalovaný Git
 3. Nainstalovaný python
+4. Vytvořený účet na GitHub
