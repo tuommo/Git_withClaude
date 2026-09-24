@@ -4,7 +4,7 @@ Kurz je navržený na **1–2 hodiny denně**, pro prostředí:
 - VS Code + Git for Windows + GitLens
 - Python
 - GitHub účet (s existujícím repozitářem nebo nově založeným)
-- Lokální složka: `C:\Projects\Git_withClaude`
+- Lokální složka např.: `C:\Projects\Git_withClaude`
 
 ## Cheat sheet
 - Přidal jsem nový soubor - git_github_cheatsheet.PDF, ve kterém je spousta návodů, postupů, best practices s prací s Git/GitHub.
